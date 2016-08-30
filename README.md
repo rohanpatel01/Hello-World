@@ -1,2 +1,2 @@
 # Hello-World
-Getting started with Git
+This was to check how branch, commit works.
