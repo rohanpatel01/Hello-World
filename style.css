@@ -1,7 +1,7 @@
 /* General */
 
 body {
-  display: flex;
+  display: auto; /* change made here!!!!*/
 }
 
 svg,
